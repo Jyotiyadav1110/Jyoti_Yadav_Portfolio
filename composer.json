@@ -1,4 +1,6 @@
 {
     "name": "your-vendor-name/devfolio-master",
-    "require": {}
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
 }
