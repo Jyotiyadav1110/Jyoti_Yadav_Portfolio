@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.1;
+    margin: 0;
+    padding: 0;
+  }
+
+  .main-container{
+    max-width: 1040px;
+    margin: auto;
+    padding: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adjust shadow properties as needed */
+  }
+  
+  header {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    margin-top: 0;
+  }
+  
+  section {
+    padding: 20px;
+    border-bottom: 1px solid gainsboro;
+  }
+  
+  article {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
