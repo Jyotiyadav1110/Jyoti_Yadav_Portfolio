@@ -74,12 +74,12 @@ Here are some of the exciting projects I've worked on. Each project showcases my
 
 ### Wezbo | Mumbai, Maharashtra
 
-- **Frontend Developer | 08/2020 – 12/2023**
+- **Frontend Developer | 07/2023 – 04/2024**
 - Created dynamic and static pages using React JS for a Mail Client app, integrating Restful APIs.
 
 ### Andesoft Consulting Pvt. Ltd | Mumbai, Maharashtra
 
-- **UI Developer | 03/2023 – 05/2023**
+- **UI Developer | 03/2023 – 06/2023**
 - Resolved bugs and maintained high project functionality standards.
 
 ### Newton School
