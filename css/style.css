@@ -600,10 +600,42 @@ a:hover {
 ======================================*/
 
 .intro {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.bg-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  transform: translate(-50%, -50%);
+  z-index: -2;
+}
+
+.overlay-itro {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+.intro-content {
+  position: relative;
+  z-index: 1;
+  color: white;
+}
+/* .intro {
   height: 100vh;
   position: relative;
   color: #fff;
-}
+} */
 
 .intro .intro-content {
   text-align: center;
